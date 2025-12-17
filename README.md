@@ -6,13 +6,13 @@ This project performs a complete Exploratory Data Analysis (EDA) on Google Play 
 
 The goal is to help app developers and business teams understand:
 
-What makes an app successful?
+* What makes an app successful?
 
-Which categories dominate the Play Store?
+* Which categories dominate the Play Store?
 
-How app size, price, and installs influence ratings?
+* How app size, price, and installs influence ratings?
 
-What users feel (sentiments) about apps?
+* What users feel (sentiments) about apps?
 
  
  🎯 Objectives
