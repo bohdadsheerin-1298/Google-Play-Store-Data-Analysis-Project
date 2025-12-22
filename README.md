@@ -136,6 +136,12 @@ Files Used:
 4. Open the Power BI file to explore the dashboard
 
 
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Overview](Google Playstore_Dashboard_Overview.png)
+
+
 
  👤 Author
 
